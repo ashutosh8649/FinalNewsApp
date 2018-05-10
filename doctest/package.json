@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "doctest",
+  "main": "main.js",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "json-server": "^0.12.1",
+    "natural": "^0.5.6",
+    "stopword": "^0.1.10",
+    "textract": "^2.2.0",
+    "wordnet": "^0.1.2",
+    "wordnet-db": "^3.1.6",
+    "wordpos": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashutosh",
+  "license": "ISC"
+}
